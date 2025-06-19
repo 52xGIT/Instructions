@@ -16,7 +16,7 @@ Whether you're new to open source or looking to enhance your GitHub skills, this
 
 1. This GitHub organization contains **5 repositories**, each with a unique open source task.
 2. **Explore each repository**, understand the problem statement, and follow the instructions provided in the README of each.
-3. **Repositories will go live on June 6, 2025.**
+3. **Repositories will go live on June 20, 2025.**
 4. **All contributions must be submitted by June 25, 2025 (11:59 PM IST).**
 5. Creating PR **(for each issue raised).**
 
